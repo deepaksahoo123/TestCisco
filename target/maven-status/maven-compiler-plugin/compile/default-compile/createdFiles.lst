@@ -1,0 +1,9 @@
+com\cisco\springboot\service\UserServiceImpl.class
+com\cisco\springboot\service\UserService.class
+com\cisco\springboot\SpringBootCRUDApp.class
+com\cisco\springboot\controller\RestApiController.class
+com\cisco\springboot\util\CustomErrorType.class
+com\cisco\springboot\configuration\JpaConfiguration.class
+com\cisco\springboot\controller\AppController.class
+com\cisco\springboot\model\User.class
+com\cisco\springboot\repositories\UserRepository.class
